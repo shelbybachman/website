@@ -1,0 +1,19 @@
+<footer id="footer">
+  <div class="footer-left">
+    &copy; {{ now.Format "2006" }} {{ if .Site.Copyright }} {{ print .Site.Copyright }} {{ else }} {{ print .Site.Title }} {{ end }}
+    &middot;
+    Created with <a href="https://github.com/shelbybachman/website"><i class="fas fa-code-branch"></i></a> <a href="https://cran.r-project.org/">
+      <i class="fab fa-r-project"></i></a> <a href="https://github.com/rstudio/blogdown">blogdown</a> <a href="https://gohugo.io">hugo</a>
+  </div>
+  <div class="footer-right">
+    <nav>
+      <!--
+      <ul>
+        {{ range .Site.Menus.main }} 
+        <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+        {{ end }}
+      </ul>
+      -->
+    </nav>
+  </div>
+</footer>

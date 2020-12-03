@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "name":"tidy-tuesday",
+      "url":"https://shelbybachman.github.io/tidy-tuesday",
+      "desc":"weekly data exploration using the tidyverse"
+    },
+    {
+      "name":"RA-tutorial-2020",
+      "url":"https://shelbybachman.github.io/RA-tutorial-2020",
+      "desc":"tidyverse tutorial"
+    },
+    {
+      "name":"data-science-capstone",
+      "url":"https://shelbybachman.github.io/data-science-capstone",
+      "desc":"capstone project for data science specialization"
+    },
+    {
+      "name":"RA-tutorial-2019",
+      "url":"https://shelbybachman.github.io/RA-tutorial-2019",
+      "desc":"basics of R, matlab & psychtoolbox"
+    }
+  ]
+}
