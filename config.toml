@@ -74,6 +74,9 @@ weight = 2
     name = "twitter"
     link = "https://www.twitter.com/shelbybachman"
   [[params.social]]
+    name = "linkedin"
+    link = "https://www.linkedin.com/in/shelby-bachman"
+  [[params.social]]
     name = "researchgate"
     link = "https://www.researchgate.net/profile/Shelby_Bachman"
   [[params.social]]
