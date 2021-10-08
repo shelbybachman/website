@@ -17,9 +17,14 @@ url = "/about"
 weight = 1
 
 [[menu.main]]
+name = "portfolio"
+url = "/portfolio"
+weight = 2
+
+[[menu.main]]
 name = "cv"
 url = "https://shelbybachman.github.io/cv/"
-weight = 2
+weight = 3
 
 #[[menu.main]]
 #name = "blog"
