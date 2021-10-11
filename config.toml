@@ -52,7 +52,7 @@ weight = 3
   googleAnalyticsAsync = false # use asynchronous tracking. Synchronous tracking by default
 
   # Home page settings
-  description = "PhD Student | University of Southern California"
+  description = "PhD Candidate | University of Southern California"
   mainSection = "posts" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 0 # this option will be ignored if showAllPostsOnHomePage is set to true
