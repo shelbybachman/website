@@ -9,10 +9,10 @@ title: portfolio
 - **Predictors of wine quality app**: I built a Shiny app to explore and model predictors of Portuguese wine quality, as part of Coursera's Developing Data Products course.<br>
 [app](https://shelbybachman.shinyapps.io/predictors-of-wine-quality/) / [github](https://github.com/shelbybachman/developing-data-products-course)
 
-- **Classification using accelerometer data**: <br>As my final project for Coursera's Practical Machine Learning Course, I used classification techniques to identify movement types based on accelerometer data.<br>
+- **Classification using accelerometer data**: As my final project for Coursera's Practical Machine Learning Course, I used classification techniques to identify movement types based on accelerometer data.<br>
 [report](https://shelbybachman.github.io/practical-machine-learning-course/final-project.html)
 
-- **Tidy Tuesday visualizations**: <br>On (some) Tuesdays, I create data visualizations using the tidyverse.<br>
+- **Tidy Tuesday visualizations**: On (some) Tuesdays, I create data visualizations using the tidyverse.<br>
 [link](https://shelbybachman.github.io/tidy-tuesday/) / [github](https://github.com/shelbybachman/tidy-tuesday)
 
 
@@ -36,10 +36,10 @@ title: portfolio
 
 # Academic projects
 
-- **Daily heart rate variability biofeedback training decreases locus coeruleus MRI contrast in younger adults**. The brain's arousal hub region, the locus coeruleus (LC), is bidirectionally connected to the autonomic nervous system, but less in known about factors that affect the LC over time. We tested how a 5-week intervention involving daily heart rate variability biofeedback training affected LC MRI contrast, an in vivo measure of LC structure. Using mixed-effects regression and correlation analyses, we found that LC contrast decreased among participants who performed daily biofeedback, and decreases in LC contrast were related to how much participants increased their heart rate oscillations during training, as well as decreases in sympathetic nervous system signaling.<br>
+- **Daily heart rate variability biofeedback training decreases locus coeruleus MRI contrast in younger adults**.<br> The brain's arousal hub region, the locus coeruleus (LC), is bidirectionally connected to the autonomic nervous system, but less in known about factors that affect the LC over time. We tested how a 5-week intervention involving daily heart rate variability biofeedback training affected LC MRI contrast, an in vivo measure of LC structure. Using mixed-effects regression and correlation analyses, we found that LC contrast decreased among participants who performed daily biofeedback, and decreases in LC contrast were related to how much participants increased their heart rate oscillations during training, as well as decreases in sympathetic nervous system signaling.<br>
 [preprint](https://www.medrxiv.org/content/10.1101/2022.02.04.22270468v1) / [code](https://github.com/EmotionCognitionLab/HRV-LC)
 
-- **Locus coeruleus MRI contrast is associated with cortical thickness in older adults.** Based on growing evidence that the brainstem locus coeruleus (LC) is important for later-life outcomes, we examined relationships between LC MRI contrast, a measure of LC structure, and cortical thickness in younger and older adults from the Berlin Aging Study-II, using multiple linear regression. We found that higher LC contrast was associated with greater cortical thickness in older adults, especially in brain regions that belong to the brain's frontoparietal attention network.<br>
+- **Locus coeruleus MRI contrast is associated with cortical thickness in older adults.**<br> Based on growing evidence that the brainstem locus coeruleus (LC) is important for later-life outcomes, we examined relationships between LC MRI contrast, a measure of LC structure, and cortical thickness in younger and older adults from the Berlin Aging Study-II, using multiple linear regression. We found that higher LC contrast was associated with greater cortical thickness in older adults, especially in brain regions that belong to the brain's frontoparietal attention network.<br>
 [publication](https://www.sciencedirect.com/science/article/pii/S0197458020304309?dgcid=coauthor) / [preprint](https://www.biorxiv.org/content/10.1101/2020.03.14.991596v2)
 
 
