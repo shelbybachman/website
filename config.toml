@@ -21,10 +21,10 @@ name = "portfolio"
 url = "/portfolio"
 weight = 2
 
-[[menu.main]]
-name = "cv"
-url = "https://shelbybachman.github.io/cv/"
-weight = 3
+#[[menu.main]]
+#name = "cv"
+#url = "https://shelbybachman.github.io/cv/"
+#weight = 3
 
 #[[menu.main]]
 #name = "blog"
@@ -80,7 +80,7 @@ weight = 3
     link = "https://github.com/shelbybachman"
   [[params.social]]
     name = "twitter"
-    link = "https://www.twitter.com/shelbybachman"
+   link = "https://www.twitter.com/shelbybachman"
   [[params.social]]
     name = "researchgate"
     link = "https://www.researchgate.net/profile/Shelby_Bachman"
