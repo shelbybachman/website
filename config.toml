@@ -52,7 +52,7 @@ weight = 3
   googleAnalyticsAsync = false # use asynchronous tracking. Synchronous tracking by default
 
   # Home page settings
-  description = "PhD Candidate | University of Southern California"
+  description = "Research Scientist | VivoSense"
   mainSection = "posts" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 0 # this option will be ignored if showAllPostsOnHomePage is set to true
@@ -73,11 +73,11 @@ weight = 3
   # the value of name should be an valid font awesome icon name (brands type)
   # https://fontawesome.com/icons?d=gallery&s=brands
   [[params.social]]
+    name = "linkedin"
+    link = "https://www.linkedin.com/in/shelbybachman/"
+  [[params.social]]
     name = "github"
     link = "https://github.com/shelbybachman"
-  [[params.social]]
-    name = "linkedin"
-    link = "https://www.linkedin.com/in/shelby-bachman"
   [[params.social]]
     name = "twitter"
     link = "https://www.twitter.com/shelbybachman"
